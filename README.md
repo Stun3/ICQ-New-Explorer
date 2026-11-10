@@ -1,7 +1,8 @@
 # ICQ-New-Explorer
 ICQ Explorer - turns an ICQ New profile folder (...\ICQ\0001) into ONE self-contained HTML file: all conversations, avatars, global search, date jump, export.
 
-Made entirely by Anthropic's Claude AI with my help. Not affiliated with ICQ or VK/Mail.ru
+Made entirely by Anthropic's Claude AI with my help. Not affiliated with ICQ or VK/Mail.ru.
+
 Requires Python. Only tested on Windows, may NOT work on other systems
 
 Usage:
